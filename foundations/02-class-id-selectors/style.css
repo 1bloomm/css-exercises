@@ -1,0 +1,25 @@
+    .pink1,
+    .pink3,
+    .pink5 {
+    background-color: rgb(235,165,165);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+
+
+
+}
+#blue2 {
+    color: rgb(0,0,300);
+    font-size: 36px;
+}
+
+.pink3 {
+    font-size: 24px;
+
+}
+
+#greenbold4 {
+    background-color: #5af882;
+    font-size: 24px;
+    font-weight:bold;
+}
+
