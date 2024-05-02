@@ -1,0 +1,16 @@
+.B-W-Bold {
+    background-color: rgb(0,0,0);
+    color: hsl(0, 0%, 100%);
+    font-weight: bold;
+
+}
+
+.Yellow {
+    background-color: #fff000;
+}
+
+.B-W-Bold,
+.Yellow {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
